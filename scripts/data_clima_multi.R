@@ -66,4 +66,4 @@ load(here::here("database","data_mult.rda"))
 #' repassar o geoprocessamento
 #' solicitar aprender como se retira os valores de densidade do soilgrids
 
-
+# -------------------------------------------------------------------------
